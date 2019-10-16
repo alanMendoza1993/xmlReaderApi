@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante
+  Certificado="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"
+  Descuento="5002.57" Fecha="2019-09-09T10:23:59" FormaPago="99"
+  LugarExpedicion="66477" MetodoPago="PUE" Moneda="MXN"
+  NoCertificado="00001000000402403936"
+  Sello="aK0b84yY7MR7Wvtpfkwf0WeVOCwGufbiZvH3YWOM5wryluCv5SFQARbSsCVPBqhAXMlL9diivfFJeAX2a3UixVEuAWi6yJBc+iS+eQXK9KmuUsu1R8xrJGxJNFcRvkiUyAQe3XHenjablEimWArvvJ6N2EUzLbUGrLmOKpdG69PHZpmUlGoWONxQe0X3V0FQgI5l7m8MG7BRlaZB5QWdZUWfGBX8e1gWAHQeokCKixwfgSnPT3eGz5w9mz+xk9inA7P7DWWxGVuSWrmyNSv0fnn/XH+WWDIwIHztpqRGU5SD2I+MR8AgyEkt1nB8p7cDb8RYIcoe5N+/cD5gcHXMZA=="
+  SubTotal="8869.18" TipoCambio="1" TipoDeComprobante="N"
+  Total="3866.61" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3"
+  xmlns:nomina12="http://www.sat.gob.mx/nomina12"
+  xmlns:terceros="http://www.sat.gob.mx/terceros"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/terceros http://www.sat.gob.mx/sitio_internet/cfd/terceros/terceros11.xsd http://www.sat.gob.mx/nomina http://www.sat.gob.mx/sitio_internet/cfd/nomina/nomina12.xsd">
+  <cfdi:Emisor Nombre="Radiomóvil Dipsa, S.A. de C.V."
+    RegimenFiscal="623" Rfc="RDI841003QJ4"/>
+  <cfdi:Receptor Nombre="RAMIREZ ZETINA MELISA YOLANDA"
+    Rfc="RAZM940204AEA" UsoCFDI="P01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="84111505"
+      ClaveUnidad="ACT" Descripcion="Pago de nómina" Descuento="5002.57"
+      Importe="8869.18" ValorUnitario="8869.18"/>
+  </cfdi:Conceptos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital FechaTimbrado="2019-09-10T21:52:05"
+      NoCertificadoSAT="00001000000407058485"
+      RfcProvCertif="CEC961028A98"
+      SelloCFD="aK0b84yY7MR7Wvtpfkwf0WeVOCwGufbiZvH3YWOM5wryluCv5SFQARbSsCVPBqhAXMlL9diivfFJeAX2a3UixVEuAWi6yJBc+iS+eQXK9KmuUsu1R8xrJGxJNFcRvkiUyAQe3XHenjablEimWArvvJ6N2EUzLbUGrLmOKpdG69PHZpmUlGoWONxQe0X3V0FQgI5l7m8MG7BRlaZB5QWdZUWfGBX8e1gWAHQeokCKixwfgSnPT3eGz5w9mz+xk9inA7P7DWWxGVuSWrmyNSv0fnn/XH+WWDIwIHztpqRGU5SD2I+MR8AgyEkt1nB8p7cDb8RYIcoe5N+/cD5gcHXMZA=="
+      SelloSAT="nSVxnFbg6Xbcl/fYOhI3hD6nthA9IdbqgJsKynnBwUXADW49wwBJ/M+vpGy5bvxX7bUeecJ4p2JRCR+olassOHGwbJ3A=="
+      UUID="D31BC119-8E93-4F9C-9126-4DA12294654E" Version="1.1"
+      xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd"/>
+    <nomina12:Nomina FechaFinalPago="2019-09-15"
+      FechaInicialPago="2019-09-01" FechaPago="2019-09-10"
+      NumDiasPagados="15.000" TipoNomina="O" TotalDeducciones="5002.57"
+      TotalPercepciones="8869.18" Version="1.2">
+      <nomina12:Emisor RegistroPatronal="D4223400109"/>
+      <nomina12:Receptor Antigüedad="P135W" Banco="012"
+        ClaveEntFed="NLE" Curp="RAZM940204MTSMTL01"
+        Departamento="40000529" FechaInicioRelLaboral="2017-02-07"
+        NumEmpleado="57253" NumSeguridadSocial="09139499074"
+        PeriodicidadPago="04" Puesto="256020" RiesgoPuesto="2"
+        SalarioBaseCotApor="516.10" SalarioDiarioIntegrado="626.00"
+        Sindicalizado="Sí" TipoContrato="01" TipoJornada="06" TipoRegimen="02"/>
+      <nomina12:Percepciones TotalExento="1008.98"
+        TotalGravado="7860.20" TotalSueldos="8869.18">
+        <nomina12:Percepcion Clave="SATP001"
+          Concepto="Sueldos, Salarios Rayas y Jornales"
+          ImporteExento="0.00" ImporteGravado="7741.50" TipoPercepcion="001"/>
+        <nomina12:Percepcion Clave="SATP005" Concepto="Fondo de Ahorro"
+          ImporteExento="890.27" ImporteGravado="0.00" TipoPercepcion="005"/>
+        <nomina12:Percepcion Clave="SATP019" Concepto="Horas extra"
+          ImporteExento="118.71" ImporteGravado="118.70" TipoPercepcion="019">
+          <nomina12:HorasExtra Dias="1" HorasExtra="2"
+            ImportePagado="237.41" TipoHoras="01"/>
+        </nomina12:Percepcion>
+      </nomina12:Percepciones>
+      <nomina12:Deducciones TotalImpuestosRetenidos="1032.21" TotalOtrasDeducciones="3970.36">
+        <nomina12:Deduccion Clave="SATD002" Concepto="ISR"
+          Importe="1032.21" TipoDeduccion="002"/>
+        <nomina12:Deduccion Clave="SATD004" Concepto="OTROS"
+          Importe="1886.39" TipoDeduccion="004"/>
+        <nomina12:Deduccion Clave="SATD018"
+          Concepto="Cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro"
+          Importe="1780.54" TipoDeduccion="018"/>
+        <nomina12:Deduccion Clave="SATD019" Concepto="Cuotas sindicales"
+          Importe="58.06" TipoDeduccion="019"/>
+        <nomina12:Deduccion Clave="SATD021"
+          Concepto="Cuotas obrero patronales" Importe="245.37" TipoDeduccion="021"/>
+      </nomina12:Deducciones>
+    </nomina12:Nomina>
+  </cfdi:Complemento>
+</cfdi:Comprobante>
