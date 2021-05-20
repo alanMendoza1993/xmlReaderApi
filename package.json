@@ -18,7 +18,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-fileupload": "^1.1.6-alpha.5",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "mongoose": "^5.7.4",
     "xml-js": "^1.6.11",
     "xml2js": "^0.4.22"
